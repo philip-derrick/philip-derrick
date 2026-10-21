@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Philip Derrick
 
-<!--
-**philip-derrick/philip-derrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical and Electronics Engineering student at Dedan Kimathi University of Technology, year 3.
 
-Here are some ideas to get you started:
+## What I'm working on
+- **Arduino / IoT:** [Smart home automation system](https://github.com/philip-derrick/arduino-smart-home-automation): sensors, scheduling and control logic, simulated in Proteus and built on the bench
+- **Next:** analysing sensor data with programs written in C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+C · Arduino (C/C++) · Proteus simulation · Calculus, linear algebra, probability · Tutoring in Mathematics, Chemistry and Physics
+
+## Interests
+IoT and data-driven solutions for agriculture, health and environmental conservation
+
+## Contact
+muigaid05@gmail.com
